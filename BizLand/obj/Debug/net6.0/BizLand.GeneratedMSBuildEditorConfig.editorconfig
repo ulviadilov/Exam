@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BizLand
 build_property.RootNamespace = BizLand
-build_property.ProjectDir = C:\Users\Ulvi Adilov\source\repos\BizLand\
+build_property.ProjectDir = C:\Users\Ulvi Adilov\Desktop\ExamBizLand\BizLand\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ulvi Adilov\source\repos\BizLand
+build_property.MSBuildProjectDirectory = C:\Users\Ulvi Adilov\Desktop\ExamBizLand\BizLand
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Accaunt/Login.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Accaunt/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY2F1bnRcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Dashboard/Index.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Member/Create.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Member/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXE1lbWJlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Member/Edit.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Member/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXE1lbWJlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Member/Index.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Member/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXE1lbWJlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Position/Create.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Position/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Position/Edit.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Position/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Position/Index.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Position/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvc2l0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Setting/Edit.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Setting/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNldHRpbmdcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Setting/Index.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Setting/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNldHRpbmdcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Views/Home/Index.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Views/_ViewImports.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Views/_ViewStart.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ulvi Adilov/source/repos/BizLand/Views/Shared/_Layout.cshtml]
+[C:/Users/Ulvi Adilov/Desktop/ExamBizLand/BizLand/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w31o0637qt

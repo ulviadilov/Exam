@@ -10197,11 +10197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ulvi Adilov\\source\\repos\\BizLand\\BizLand.csproj",
+      "projectUniqueName": "C:\\Users\\Ulvi Adilov\\Desktop\\ExamBizLand\\BizLand\\BizLand.csproj",
       "projectName": "BizLand",
-      "projectPath": "C:\\Users\\Ulvi Adilov\\source\\repos\\BizLand\\BizLand.csproj",
+      "projectPath": "C:\\Users\\Ulvi Adilov\\Desktop\\ExamBizLand\\BizLand\\BizLand.csproj",
       "packagesPath": "C:\\Users\\Ulvi Adilov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ulvi Adilov\\source\\repos\\BizLand\\obj\\",
+      "outputPath": "C:\\Users\\Ulvi Adilov\\Desktop\\ExamBizLand\\BizLand\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ulvi Adilov\\AppData\\Roaming\\NuGet\\NuGet.Config",

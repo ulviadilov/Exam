@@ -24,6 +24,7 @@ namespace BizLand.Areas.Manage.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(AdminLoginViewModel adminLoginVM)
         {
+            if(!ModelState.IsValid) return View(adminLoginVM);
             AppUser admin = await _userManager.FindByNameAsync(adminLoginVM.UserName);
             if (admin == null)
             {

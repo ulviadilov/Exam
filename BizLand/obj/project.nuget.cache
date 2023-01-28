@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ftS0QNf1VzvmHb6sltPRFysEJ05l7FtCK1bi62mKb1l7yFuYFcEyextJazSi7YupDR1AyIG1Ry8eDztcSdzohA==",
+  "dgSpecHash": "hCcMbkB4dIAAZNJDoysuLz9zjV5H+1+j6mZIej+ZtNz10AJy6wPmOzwkttiEK423e2gL5c9FOtlgwhtP1HZhkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ulvi Adilov\\source\\repos\\BizLand\\BizLand.csproj",
+  "projectFilePath": "C:\\Users\\Ulvi Adilov\\Desktop\\ExamBizLand\\BizLand\\BizLand.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ulvi Adilov\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ulvi Adilov\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
