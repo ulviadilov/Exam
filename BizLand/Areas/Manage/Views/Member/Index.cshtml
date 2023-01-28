@@ -1,0 +1,43 @@
+﻿@model List<Member>
+@{
+    int counter = 0;
+}
+
+<div class="container">
+    <h1>Members</h1>
+    <a asp-action="create" asp-controller="member" class="btn btn-primary">Create</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">No</th>
+                <th scope="col">Firstname</th>
+                <th scope="col">Lastname</th>
+                <th scope="col">Position</th>
+                <th scope="col">Image</th>
+                <th scope="col">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                counter++;
+                    <tr>
+                    <th scope="row">@counter</th>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Position.Name</td>
+                    <td>
+                        <div style="max-width:200px">
+                            <img style="width:100%" src="~/uploads/members/@item.ImageUrl"></img>
+                        </div>
+                    </td>
+                    <td>
+                        <a asp-action="edit" asp-controller="member" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                        <a asp-action="delete" asp-controller="member" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>

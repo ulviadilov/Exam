@@ -1,0 +1,58 @@
+﻿@model Member
+
+<div class="container">
+    <h1>Edit member</h1>
+    <form method="post" asp-action="edit" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="FirstName" class="form-label">Firstname</label>
+            <input asp-for="FirstName" class="form-control">
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">Lastname</label>
+            <input asp-for="LastName" class="form-control">
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="FacebookUrl" class="form-label">Facebook Url</label>
+            <input asp-for="FacebookUrl" class="form-control">
+            <span asp-validation-for="FacebookUrl" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="TwitterUrl" class="form-label">Twitter Url</label>
+            <input asp-for="TwitterUrl" class="form-control">
+            <span asp-validation-for="TwitterUrl" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="InstagramUrl" class="form-label">Instagram Url</label>
+            <input asp-for="InstagramUrl" class="form-control">
+            <span asp-validation-for="InstagramUrl" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="LinkedinUrl" class="form-label">Linkedin Url</label>
+            <input asp-for="LinkedinUrl" class="form-control">
+            <span asp-validation-for="LinkedinUrl" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ImageFile" class="form-label">Image</label>
+            <input asp-for="ImageFile" class="form-control">
+            <span asp-validation-for="ImageFile" class="text-danger"></span>
+        </div>
+        <div style="max-width:200px">
+            <img style="width:100%" src="~/uploads/members/@Model.ImageUrl"></img>
+        </div>
+        <div>
+            <input asp-for="ImageUrl" value="@Model.ImageUrl" type="hidden"></input>
+        </div>
+        <div>
+            <select asp-for="PositionId">
+                @foreach (Position item in ViewBag.Positions)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Edit</button>
+    </form>
+</div>
